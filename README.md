@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm 용재
+I'm Yongjae Kim(Songforthesilent)
 <!--
 **Songforthesilent/Songforthesilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
